@@ -17,7 +17,7 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: var(--primary-color);
   padding: 0;
-  margin: 0;
+  margin: 0 100px;
   font-weight: 300;
   font-size: 16px;
   line-height: 1.6;
@@ -105,6 +105,7 @@ td {
 
 #about-picture {
   padding-top: 40px;
+  max-width: 50%;
 }
 
 .profile__portrait {
