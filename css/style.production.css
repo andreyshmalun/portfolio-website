@@ -252,8 +252,8 @@ input {
   }
   .grid {
     grid-gap: 10px;
-    -ms-grid-columns: 2fr 10px 2fr;
-    grid-template-columns: 2fr 2fr;
+    -ms-grid-columns: 1fr 10px 1fr;
+    grid-template-columns: 1fr;
   }
   .grid__item:last-child {
     grid-column: auto / auto;
